@@ -1,1 +1,34 @@
-
+[
+  {
+    "title": "Safari Hitech Large Size 35 Ltrs Water Resistant Standard Backpack - Black",
+    "price": "₹949",
+    "cutted_price": "₹2,999",
+    "category": "Bags Categories",
+    "link": "https://amzn.to/3Yff6Wd",
+    "img_src": "https://m.media-amazon.com/images/I/61I6joqxQPL._SX679_.jpg"
+  },
+  {
+    "title": "ABROS Men's Kyle ASGO0102 Sports Shoes/Casual Shoes/Running Shoes",
+    "price": "₹1,109",
+    "cutted_price": "₹1,699",
+    "category": "Men's Fashion",
+    "link": "https://amzn.to/42nXoRY",
+    "img_src": "https://m.media-amazon.com/images/I/71hSZfAtisL._SY695_.jpg"
+  },
+  {
+    "title": "AGARO Ace Wet & Dry Vacuum Cleaner, 1600 Watts, 21.5 kPa Suction Power, 21 litres Tank Capacity, for Home Use, Blower Function, Washable 3L Dust Bag, Stainless Steel Body (Black/Red/Steel)",
+    "price": "₹5,819",
+    "cutted_price": "₹9,999",
+    "category": "Electronics",
+    "link": "https://amzn.to/4iMomcF",
+    "img_src": "https://m.media-amazon.com/images/I/41pgKrVoZYL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "title": "John Jacobs | Full Rim Round Stylish & Premium Polarized Sunglasses | JJ Tints | Polarized and 100% UV Protected | Men & Women | Narrow | JJ S11509",
+    "price": "₹1,799",
+    "cutted_price": "₹4,999",
+    "category": "Men's Fashion",
+    "link": "https://amzn.to/4j2JVWD",
+    "img_src": "https://m.media-amazon.com/images/I/51DjgYX6WWL._SX679_.jpg"
+  }
+]
