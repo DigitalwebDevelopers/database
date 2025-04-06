@@ -1,1 +1,34 @@
-
+[
+  {
+    "title": "London Hills Men's Casual Printed Round Neck, Oversized Longline Drop Shoulder Boho Style T-Shirt",
+    "price": "₹299",
+    "cutted_price": "₹1,299",
+    "category": "Men's Fashion",
+    "link": "https://amzn.to/42kTp8K",
+    "img_src": "https://m.media-amazon.com/images/I/71mtw+e95QL._SX679_.jpg"
+  },
+  {
+    "title": "Nike' Women's Regular Short Sleeve TOP",
+    "price": "₹929",
+    "cutted_price": "₹1,695",
+    "category": "Women's Fashion",
+    "link": "https://amzn.to/4hXwCFF",
+    "img_src": "https://m.media-amazon.com/images/I/8176Y0RhWKL._SX679_.jpg"
+  },
+  {
+    "title": "Garnier Skin Naturals Bright Complete Vitamin C Face Wash - Vitamin C Face Wash For Brighter and Glowing Skin - Suitable For all Skin Types, 150g (Pack of 2)",
+    "price": "₹454",
+    "cutted_price": "₹956",
+    "category": "Beauty Cosmetic",
+    "link": "https://amzn.to/41XnfRKF",
+    "img_src": "https://m.media-amazon.com/images/I/61aWChlQ03L._SX679_PIbundle-2,TopRight,0,0_SX679SY629SH20_.jpg"
+  },
+  {
+    "title": "ZEBRONICS S27A 27\" (68.5cm) LED Monitor, 75Hz, FHD 1920x1080, IPS Display, 1ms MPRT, 16:9 Aspect Ratio, 300Nits, 16.7M Colors, Dual Input - HDMI + VGA, Built-in Speakers, Wall Mountable",
+    "price": "₹7,999",
+    "cutted_price": "₹27,999",
+    "category": "Electronics",
+    "link": "https://amzn.to/3FKJ5iH",
+    "img_src": "https://m.media-amazon.com/images/I/819kZIgW4dL._SX679_.jpg"
+  }
+]
