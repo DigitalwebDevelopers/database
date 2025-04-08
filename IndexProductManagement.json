@@ -1,5 +1,12 @@
 [
-
+  {
+    "title": "Skybags 30L Printed School Backpack For Kids, 02 Red, (Marvel Spiderman), Multicolor",
+    "price": "₹1199",
+    "cutted_price": "₹1299",
+    "category": "BAGS & LUGGAGE",
+    "link": "https://amzn.to/4cnV01O",
+    "img_src": "https://m.media-amazon.com/images/I/61aXPAJgtpL._SX679_.jpg"
+  },
   {
     "title": "Bajaj Rex Mixer Grinder 750W | 4 Mixer Jars | Mixie For Kitchen With Nutri-Pro Feature | Titan Motor-Heavy Duty Grinding | Multifunctional Blade System | 1 Yr Warranty 【White】",
     "price": "₹3,199",
@@ -55,13 +62,5 @@
     "category": "Electronics",
     "link": "https://amzn.to/3DOcwQj",
     "img_src": "https://m.media-amazon.com/images/I/61AO78xQcWL._SX679_.jpg"
-  },
-  {
-    "title": "Bajaj GX-1 Mixer Grinder 500W|Superior Mixie For Kitchen|2-in-1 for Dry Grinding| Blade Function With Titan Motor|3 Stainless Steel Mixer Jars|1 Year Product Warranty By Bajaj 【Black】",
-    "price": "₹2,141",
-    "cutted_price": "₹4,125",
-    "category": "Electronics",
-    "link": "https://amzn.to/3G1SCBK",
-    "img_src": "https://m.media-amazon.com/images/I/419Lt9UNP2L._SX300_SY300_QL70_FMwebp_.jpg"
   }
 ]
