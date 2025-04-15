@@ -1,5 +1,13 @@
 [
   {
+    "title": "Peter England Slim Fit Shirt For Men (Cotton Blend | Pack of 1 )",
+    "price": "₹999",
+    "cutted_price": "₹1599",
+    "category": "MEN'S FASHION",
+    "link": "https://amzn.to/4jxhWxZ",
+    "img_src": "https://m.media-amazon.com/images/I/61-mOJjSdCL._SY741_.jpg"
+  },
+  {
     "title": "New Launch Nirvana X TWS,Knowles Dual Drivers,Hi-Res Audio LDAC,App Support,4Mic ENx,Dual Pair,Spatial Audio,Fast Charge, Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Cosmic Onyx)",
     "price": "₹2799",
     "cutted_price": "₹8999",
@@ -54,13 +62,5 @@
     "category": "ELECTRONICS",
     "link": "https://amzn.to/3RviNDL",
     "img_src": "https://m.media-amazon.com/images/I/71EvFZURNZL._SX522_.jpg"
-  },
-  {
-    "title": "Skybags 30L Printed School Backpack For Kids, 02 Red, (Marvel Spiderman), Multicolor",
-    "price": "₹1199",
-    "cutted_price": "₹1299",
-    "category": "BAGS & LUGGAGE",
-    "link": "https://amzn.to/4cnV01O",
-    "img_src": "https://m.media-amazon.com/images/I/61aXPAJgtpL._SX679_.jpg"
   }
 ]
